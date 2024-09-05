@@ -17,13 +17,29 @@ Aqui você encontrará:
 
 - **C**: Linguagem de programação principal utilizada para as soluções e exercícios.
 
+
 ## 🗂 Estrutura do Repositório
 
-- **/segundo_periodo**: Questões e soluções do terceiro período.
-- **/terceiro_periodo**: Estrutura de Dados/ Programação orientada a objetos
-- **/quarto_periodo**: Questões e soluções do quarto período.
-- **/quinto_periodo**: Questões e soluções do quinto período.
-- **/outros_periodos**: Questões de períodos posteriores.
+- **segundo_periodo**:<br>
+  
+- **terceiro_periodo**: <br>
+   [Estrutura de Dados](./estrutura_de_dados) <br>
+   [Programação Orientada a Objetos](./programacao_orientada_a_objetos) <br>
+  
+- **quarto_periodo**: <br>
+
+- **quinto_periodo**: <br>
+  
+- **outros_periodos**: <br>
+  
+
+## 🗂 Estrutura do Repositório
+
+ Questões e soluções do terceiro período.
+ Estrutura de Dados/ Programação orientada a objetos
+ Questões e soluções do quarto período.
+ Questões e soluções do quinto período.
+ Questões de períodos posteriores.
 
 ## 💡 Observações
 
@@ -55,7 +71,4 @@ Se você deseja contribuir para este repositório, seja adicionando novas quest�
 Este repositório não possui uma licença específica, mas o código está disponível para fins educacionais e pessoais. 
 
 Feito com 💻 por Marcos
-
----
-
 Você pode ajustar os detalhes de acordo com as suas preferências e adicionar qualquer informação adicional que considere relevante. Se precisar de mais alguma coisa, estou à disposição!
