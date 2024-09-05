@@ -23,8 +23,8 @@ Aqui você encontrará:
 - **segundo_periodo**:<br>
   
 - **terceiro_periodo**: <br>
-   [Estrutura de Dados](./estrutura_de_dados) <br>
-   [Programação Orientada a Objetos](./programacao_orientada_a_objetos) <br>
+   [Estrutura de Dados](./estrutura%20de%20dados) <br>
+   [Programação Orientada a Objetos](./programacao%orientada%a%objetos) <br>
   
 - **quarto_periodo**: <br>
 
